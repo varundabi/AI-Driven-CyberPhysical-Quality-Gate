@@ -1,4 +1,4 @@
-AI-Driven Cyber-Physical Quality Gate (Poka-Yoke Implementation)
+AI-Driven Cyber-Physical Quality Gate (Poka-Yoke Implementation): 
 AI-driven Industry 4.0 quality gate blending CAD automation (Solid Edge API), PyTorch deep learning triage, and precise OpenCV homography metrology.
 
 🛠️ Technology Stack
